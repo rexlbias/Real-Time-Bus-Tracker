@@ -1,9 +1,6 @@
-# pacmen
-Factory for making pacmen
+# Real Time Bus Tracker
+## Map for tracking stops between MIT and Harvard
 You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+When button "Show Stops Between MIT and Harvard" is pressed will see the map marker move to show the bus stop between MIT and Harvard 
 
-<img src="PacMan1.png">
+<img src="Bustracker.png">
