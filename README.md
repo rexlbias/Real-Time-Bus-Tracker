@@ -6,6 +6,8 @@ How To
 Load the index.html web page. When you click the button "Show stops between MIT and Harvard" you can see the map marker move. Additional improvements include marking the route back from Harvard to MIT. Additionally, adding the ability to click on each marker as it moves to get more specific information about each bus stop would be an improvement.
 
 
+Future improvements would include extending the route and adding an animated bus.
+
 
 License
 MIT License
